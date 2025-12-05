@@ -24,7 +24,7 @@ This Streamlit page showcases the dashboard for portfolio and demonstration purp
 # --- DOWNLOAD SECTION ---
 st.subheader("📥 Download Excel Dashboard (.xlsm)")
 
-with open("Inventory-Management-System.xlsm", "rb") as f:
+with open("Inventory Management System .xlsm", "rb") as f:
     st.download_button(
         label="Download Excel Inventory Dashboard",
         data=f,
