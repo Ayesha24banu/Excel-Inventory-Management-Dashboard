@@ -38,11 +38,11 @@ st.subheader("📸 Dashboard Screenshots")
 st.write("Below are the key pages from the Excel Inventory Dashboard:")
 
 image_paths = [
-    "assets/Screenshot%202025-12-05%20150043.png",
-    "assetsScreenshot 2025-12-05 150132.png",
-    "assets/Screenshot 2025-12-05 150155.png",
-    "assets/Screenshot 2025-12-05 150222.png",
-    "assets/Screenshot 2025-12-05 150245.png"
+    "assets/screenshot_1.png",
+    "assets/screenshot_2.png",
+    "assets/screenshot_3.png",
+    "assets/screenshot_4.png",
+    "assets/screenshot_5.png"
 ]
 
 for img in image_paths:
